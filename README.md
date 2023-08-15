@@ -1,6 +1,6 @@
 # shena4746/perl-for-latex
 
-Alpine Linux image just containing Perl modules that are required by a latex tool latexindent.
+Alpine Linux image (3.17.0) just containing Perl modules that are required by a latex tool latexindent.
 The image is intended to be used as material for multi-stage build.
 
 - Image contains
@@ -11,4 +11,5 @@ The image is intended to be used as material for multi-stage build.
   - File::HomeDir
 
 [Docker Hub](https://hub.docker.com/repository/docker/shena4746/perl-for-latex/general)
+
 [GitHub](https://github.com/Shena4746/perl-modules-for-latex)

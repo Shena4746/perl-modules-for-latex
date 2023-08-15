@@ -15,4 +15,4 @@ jobs:
         with:
           destination_container_repo: ${{ secrets.DOCKER_USER }}/perl-for-latex
           provider: dockerhub
-          short_description: 'An alpine-based Docker dev-image containing Perl modules for LaTeX tools.'
+          short_description: 'An alpine-based (3.17.0) Docker dev-image containing Perl modules for LaTeX tools.'
