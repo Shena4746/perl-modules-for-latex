@@ -9,3 +9,6 @@ The image is intended to be used as material for multi-stage build.
   - Unicode::LineBreak
   - Log::Log4perl
   - File::HomeDir
+
+[Docker Hub](https://hub.docker.com/repository/docker/shena4746/perl-for-latex/general)
+[GitHub](https://github.com/Shena4746/perl-modules-for-latex)
